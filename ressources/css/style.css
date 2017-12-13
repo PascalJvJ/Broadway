@@ -5,7 +5,8 @@ body
 }
 header
 {
-    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+    background-size: cover;
 }
 header h1
 {
@@ -39,7 +40,8 @@ section p
 section h3.bg
 {
     color: white;
-    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+    background-size: cover;
 }
 footer
 {
